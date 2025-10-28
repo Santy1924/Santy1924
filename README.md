@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Santiago 💻
 
 Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo.  
-Me gusta construir soluciones prácticas y eficientes, y siempre busco mejorar mis habilidades en diferentes áreas del desarrollo.
+Me encanta crear soluciones que aporten valor y aprender cada día algo nuevo.  
+Actualmente enfocado en el desarrollo **backend con .NET y C#**, y en el uso de **Docker y Azure** para despliegue en la nube.
 
 ---
 
@@ -19,8 +20,10 @@ Me gusta construir soluciones prácticas y eficientes, y siempre busco mejorar m
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 
 </div>
 
@@ -28,8 +31,7 @@ Me gusta construir soluciones prácticas y eficientes, y siempre busco mejorar m
 
 ## 🧠 Actualmente aprendiendo
 - Desarrollo backend con **.NET y C#**
-- Integración de **Docker y Azure**
-- Mejores prácticas en **arquitectura de software**
+- Contenedores y despliegue con **Docker**
 
 ---
 
@@ -57,12 +59,13 @@ Me gusta construir soluciones prácticas y eficientes, y siempre busco mejorar m
 
 ---
 
-## 💬 Un poco sobre mí
+## 💬 Sobre mí
 
-💡 Me gusta resolver problemas reales con código.  
-🧩 Disfruto aprender nuevas tecnologías y trabajar en equipo.  
-📚 Siempre busco mejorar mis habilidades técnicas y personales.  
+💡 Me gusta resolver problemas reales a través del código.  
+🧩 Disfruto aprender nuevas tecnologías y mejorar constantemente.  
+📚 Apasionado por el desarrollo full stack y la arquitectura de software.  
+⚙️ Siempre abierto a colaborar en proyectos interesantes.  
 
 ---
 
-✨ *Gracias por visitar mi perfil. Si te gusta mi trabajo, no dudes en dejar una ⭐ en mis repositorios o conectar conmigo.*  
+✨ *Gracias por visitar mi perfil. Si te gusta mi trabajo, no dudes en dejar una ⭐ en mis repositorios o conectar conmigo.*
