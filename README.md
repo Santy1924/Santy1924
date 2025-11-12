@@ -40,7 +40,6 @@ Actualmente enfocado en el desarrollo **backend con C# .NET**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santy1924&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santy1924&layout=compact&theme=tokyonight)
 
 </div>
