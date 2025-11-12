@@ -2,7 +2,7 @@
 
 Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo.  
 Me encanta crear soluciones que aporten valor y aprender cada día algo nuevo.  
-Actualmente enfocado en el desarrollo **backend con C# .NET**
+Actualmente enfocado en el desarrollo Web con .NET**
 
 ---
 
