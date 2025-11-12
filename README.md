@@ -31,7 +31,7 @@ Actualmente enfocado en el desarrollo Web con .NET**
 ---
 
 ## 🧠 Actualmente aprendiendo
-- Desarrollo backend con **.NET y C#**
+- Desarrollo web con **.NET**
 - Contenedores y despliegue con **Docker**
 
 ---
